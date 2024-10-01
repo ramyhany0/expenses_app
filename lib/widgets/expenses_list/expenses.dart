@@ -21,7 +21,6 @@ class _ExpensesState extends State<Expenses> {
             Text("...."),
             Text("...."),
             Text("...."),
-            Text("...."),
           ],
         ),
       ),
