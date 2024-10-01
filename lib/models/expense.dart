@@ -18,10 +18,3 @@ class Expense {
     required this.date,
   }) : id = uuid.v4();
 }
-
-var V1 = Expense(
-  category: Category.work,
-  title: "Flutter Course",
-  amount: 29.9,
-  date: DateTime.now(),
-);
